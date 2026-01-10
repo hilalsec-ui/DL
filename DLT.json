@@ -1,0 +1,16 @@
+{
+  "name": "Decentralized Lottery Token",
+  "symbol": "DLT",
+  "description": "The official token for the Decentralized Lottery (DLT) platform.",
+  "image": "https://github.com/hilalsec-ui/DL/blob/main/DLT%20icon.jpg?raw=true",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/hilalsec-ui/DL/blob/main/DLT%20icon.jpg?raw=true",
+        "type": "image/jpg"
+      }
+    ],
+    "category": "image"
+  }
+}
